@@ -24,7 +24,7 @@ This repository contains the code for a sleek and modern one-page landing page. 
 
 2. Navigate into the project directory:
     ```bash
-    cd path_to_directory
+    cd bookss
     ```
 
 3. Install the dependencies:
@@ -36,8 +36,6 @@ This repository contains the code for a sleek and modern one-page landing page. 
     ```bash
     npm run dev
     ```
-
-Visit `http://localhost:5000/` in your browser to see the landing page in action!
 
 ## 📝 License
 
